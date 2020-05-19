@@ -1,5 +1,6 @@
 The project is trained with YOLOv3 model based on VOC2012 data.
 The YOLOv3 is based on darknet model.
+The code is run by Google Colab.
 
 - First, set up darknet with cuda environment.
 - Second, download the data online and read the data.
